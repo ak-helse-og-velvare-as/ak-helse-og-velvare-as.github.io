@@ -1,0 +1,1 @@
+import{s,n as e}from"../chunks/scheduler.Ce_0Mfso.js";import{S as n,i as a,h as r,d}from"../chunks/index.KrEplOO0.js";function c(o){return{c(){this.h()},l(t){r("svelte-d1ndnv",document.head).forEach(d),this.h()},h(){document.title="Tjenester - Helse og Velvære"},m:e,p:e,i:e,o:e,d:e}}class m extends n{constructor(t){super(),a(this,t,null,c,s,{})}}export{m as component};
